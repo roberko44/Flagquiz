@@ -1,0 +1,10 @@
+.allekategorien{
+    display:flex;
+    flex-direction: column;
+}
+
+.kname{
+    display:flex;
+    margin: 0.5rem;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,37 @@
+#newkommi{
+    resize: none;
+}
+
+
+.allekommis{
+   margin-left: 1rem;
+   overflow: auto;
+}
+
+.kommi{
+    margin: 0rem;
+    margin-bottom: 1rem;
+}
+
+.item_nutzer{
+    margin: 0rem;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.item_datum{
+    margin: 0rem;
+    display: inline-block;
+    font-size: 0.8rem;
+    color:cornflowerblue;
+}
+
+.item_kommentar{
+    margin: 0rem;
+    font-size: 1.2rem;
+}
+
+
+#kommi_datum{
+    margin: 0rem;
+}

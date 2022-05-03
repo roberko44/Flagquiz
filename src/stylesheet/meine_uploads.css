@@ -1,0 +1,56 @@
+#einlogbutton{
+   font-size: 1.2rem;
+}
+
+
+.uploadform{
+   width: 100%;
+   display:flex;
+   flex-direction: row;
+}
+
+.divTest{
+   display: flex;
+   flex-direction: row;
+   margin-bottom: 0.5rem;
+}
+
+.left{
+   width: 25%;
+   font-weight: bold;
+}
+
+
+.errorclass{
+   color: red;
+}
+.rightclass{
+   color: green;
+}
+
+.uploadbox{
+   padding-bottom: 1rem;
+   border-bottom: 0.1rem solid black;
+}
+
+.form{
+   height: 30%;
+}
+
+
+
+.uploadLeft{
+   display: flex;
+   flex-direction: column;
+   width: 50%;
+}
+
+.uploadRight{
+   display: flex;
+   flex-direction: column;
+   width: 50%;
+}
+
+.meineBuecher{
+   height: 60%;
+}

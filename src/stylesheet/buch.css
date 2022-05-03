@@ -1,0 +1,65 @@
+.buecher{
+    height: 90%;
+    width: 100% !important;
+    overflow-y: auto;
+    clear: both;
+ }
+
+.buch{
+    margin: 1rem;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.buch_edit{
+    display:flex;
+    flex-direction: column;
+}
+
+.show_item{
+    display: flex;
+    margin: 1rem;
+}
+#show_item{
+    width: 20%;
+    margin: 1rem;
+}
+#show_itembutton{
+    margin: 1rem;
+}
+#show_itemkommihome{
+    margin-top: 1rem;
+    height: 30%;
+}
+
+.buchImg a img{
+    height: 15rem;
+}
+
+.buchImgBearbeitung a img{
+    margin: 1rem;
+    height: 25rem;
+}
+
+
+
+/* gehört zu showUpload()*/
+
+.description{
+    display: flex;
+    flex-direction: row;
+}
+
+.titelAndValue{
+   margin-right: 1.5rem;
+   margin-left: 1.5rem;
+}
+
+.btitel{
+    font-weight: bold;
+}
+
+.settings{
+    flex-direction: column;
+}

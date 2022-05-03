@@ -1,0 +1,9 @@
+.bücher{
+   display:flex;
+   flex-direction: column;
+}
+.buch{
+   margin: 1rem;
+   display:flex;
+   flex-direction: row;
+}
